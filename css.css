@@ -1,0 +1,33 @@
+    body {
+        background-color: rgb(255, 192, 56);
+    }
+
+    table, td {
+        border-collapse: collapse;
+        font-family: 'Comic Sans MS', Times, serif;
+        font-size: 1em;
+    }
+
+    table {
+        width: 80%;
+        margin: auto;
+        text-align: center;
+        vertical-align: middle;
+    }
+
+    tr {
+        height: 200px;
+    }
+
+    .antras, .antras td {
+        margin-top: 50px;
+        border: 2px solid black;
+        font-size: 3em;
+    }
+
+    .antras {
+    }
+
+    #langelis {
+        background-color: blue;
+    }
